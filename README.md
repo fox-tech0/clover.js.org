@@ -1,2 +1,4 @@
-# clover.js.org
-A small Website written in React.
+# 🚀 Rocket
+My first react site.
+
+Made using tailwind and react, and craco.
